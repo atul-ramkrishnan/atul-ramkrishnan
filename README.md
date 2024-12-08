@@ -31,6 +31,8 @@ Welcome to my GitHub page! Here is a summary of the various projects I have work
 
 - **[Dirichlet Pruning for Neural Network Compression](https://github.com/atul-ramkrishnan/dirichlet-pruning)**  
   An exploration of Dirichlet pruning techniques for compressing neural networks. This project investigates methods for reducing the complexity of neural networks through pruning, specifically targeting the use of Dirichlet distributions in the process.
-
+- **[Link Grabber](https://github.com/atul-ramkrishnan/link-grabber-chrome-extension)**
+  A simple little Chrome extension to store URLs for quick access and future reference. Never lose track of your favorite links again!
+  
 ## Contact
 - 📫 How to reach me: atul.ramkrishnan97@gmail.com
