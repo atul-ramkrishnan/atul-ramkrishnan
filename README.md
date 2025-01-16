@@ -34,5 +34,8 @@ Welcome to my GitHub page! Here is a summary of the various projects I have work
 - **[Link Grabber](https://github.com/atul-ramkrishnan/link-grabber-chrome-extension)**  
   A simple little Chrome extension to store URLs for quick access and future reference. Never lose track of your favorite links again!
   
+- **[Music Quality Settings Microservice](https://github.com/atul-ramkrishnan/music-quality-settings-microservice)**
+  A Spring Boot microservice for managing music quality settings, including minBitrate and maxBitrate. Features a REST API to retrieve configuration values, leveraging @ConfigurationProperties for centralized property management. Built with best practices in Spring Boot for extensibility and maintainability.
+  
 ## Contact
 - 📫 How to reach me: atul.ramkrishnan97@gmail.com
